@@ -5,3 +5,6 @@ local commit 4
 remote commit 1
 remote commit 2
 remote commit 3
+-----------------
+
+remote comit 1
