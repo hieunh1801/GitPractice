@@ -3,3 +3,4 @@ master commit 2
 master commit 3
 local commit 4
 remote commit 1
+remote commit 2
