@@ -14,3 +14,4 @@ Giả lập các tình huống khi dùng git
 
     - merge feature1 vào master
     - merge fature2 vào master
+    
